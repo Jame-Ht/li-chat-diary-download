@@ -1,0 +1,22 @@
+{
+  "files": [
+    {
+      "name": "LiChatDiary.exe",
+      "size": 141356330,
+      "digest": "sha256:275fd21b271f9b17565261a0fda4cf8e3c11006e83312e16b11912ac0b218222",
+      "url": "https://github.com/Jame-Ht/li-chat-diary-download/releases/download/%E6%9D%8E%E7%9A%84%E8%81%8A%E5%A4%A9%E6%97%A5%E8%AE%B0/LiChatDiary.exe"
+    },
+    {
+      "name": "ModelAPI.txt",
+      "size": 4938,
+      "digest": "sha256:8092ccffeff7daf19d07656e9e1f4ca75788c287d2a0535a19499df49c6f1bf6",
+      "url": "https://github.com/Jame-Ht/li-chat-diary-download/releases/download/%E6%9D%8E%E7%9A%84%E8%81%8A%E5%A4%A9%E6%97%A5%E8%AE%B0/ModelAPI.txt"
+    },
+    {
+      "name": "ReadMe.txt",
+      "size": 5800,
+      "digest": "sha256:5e9f7f18aa4a2b69eceb601e4a85ef585821e2681a0803bac08a3c295ee3aec8",
+      "url": "https://github.com/Jame-Ht/li-chat-diary-download/releases/download/%E6%9D%8E%E7%9A%84%E8%81%8A%E5%A4%A9%E6%97%A5%E8%AE%B0/ReadMe.txt"
+    }
+  ]
+}
